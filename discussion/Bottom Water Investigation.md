@@ -10,7 +10,8 @@
 
 <br>
   
-![image](https://github.com/user-attachments/assets/d1ba47c9-510d-4fda-a161-483ed3cc4034)  
+![image](https://github.com/user-attachments/assets/427593cc-744b-4232-b988-93adda072479)  
+
 **Figure 3.** Times series of the mean surface water mass transformation over the 25-75% dense water formation region (justified in Schmidt et al., 2025) for a) the PanAntarctic and ACCESS-OM2 meltwater and control experiments, and b) the PanAntarctic and ACCESS-OM2 anomalies between the control and meltwater perturbation. The mean surface water mass transformation over the DSW formation region was saved yearly, averaged for each year of the ten year analysis period. 
 
 <br>
