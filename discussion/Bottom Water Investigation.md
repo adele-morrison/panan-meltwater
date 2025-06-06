@@ -1,5 +1,6 @@
 # Bottom Water Investigation for PanAn 1/10th and ACCCESS-OM2-01
-
+This is a document containing the figures I produced for my Climate Dynamics report.  
+  
 ![image](https://github.com/user-attachments/assets/f84df6d8-dfb3-4689-baab-fbbfcbfe4f6a)  
 **Figure 1.** Ideal age tracer anomaly for a) the PanAntarctic model and b) ACCESS-OM2. The age anomaly is taken at the last day of the ten year analysis period, by subtracting the control experiment from the meltwater perturbation experiment. The black contour indicates the edge of the Antarctic continental shelf. 
 
