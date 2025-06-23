@@ -30,7 +30,7 @@ For abyssal overturning:
 - bottom water age map
 
 - SWMT peaks (all models on same plot)
-- Time series of SWMT anomaly for all models (whole shelf or regional? maybe all of the above)
+- Time series of SWMT anomaly for all models (Whole shelf or regional? Maybe all of the above)
 - Bottom water age and SWMT for control and meltwater separately, side by side?
   
 <br>
@@ -38,11 +38,15 @@ For ocean warming:
 
 - Mean shelf and slope response:
     - Depth-mean maps
-    - Time series for slope and shelf in difference regions
-    - Temperature Hovmoller for top 1000m for each model
+    - Time series for slope and shelf in different regions
+    - Temperature Hovmoller for the top 1000m for each model
 
 <br>
 For ASC:  
 
 - Speed anomaly maps
-- Westward transport over isobaths (see fig 7 of Moorman et al (2020))
+- Westward transport over isobaths (see Fig 7 of Moorman et al (2020))
+
+### Discussion
+- Schematic of key responses (see Fig 12 of Moorman et al (2020))
+
