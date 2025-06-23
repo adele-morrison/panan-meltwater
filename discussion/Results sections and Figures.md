@@ -5,7 +5,7 @@
    
    1.1.
 
-**2. Ocean warming**  
+**2. Ocean temperature response**  
     Metrics: Temperature trends at different depths, heat content anomalies, regional breakdowns (e.g., Weddell, Ross, Amundsen-Bellingshausen Seas).
 
 **3. Strength of ASC**  
