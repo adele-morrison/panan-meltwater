@@ -15,6 +15,8 @@
 
 # Figures for thesis draft  
 
+Do maps for last 5 years. 
+
 ### Introduction
 - Diagram of Antarctic shelf, with DSW formation, overturning, and ASC
 - Diagram from Schmidt et al (2025) of resolution and mixing
@@ -30,7 +32,7 @@ For abyssal overturning:
 - bottom water age map
 
 - SWMT peaks (all models on same plot)
-- Time series of SWMT anomaly for all models (Whole shelf or regional? Maybe all of the above)
+- Time series of SWMT 25-75% mean for all models (Whole shelf or regional? Maybe all of the above), yearly resolution is fine. (can plot against control)
 - Bottom water age and SWMT for control and meltwater separately, side by side?
   
 <br>
@@ -41,11 +43,14 @@ For ocean warming:
     - Time series for slope and shelf in different regions
     - Temperature Hovmoller for the top 1000m for each model
 
+- sea ice concentration
+
 <br>
 For ASC:  
 
 - Speed anomaly maps
-- Westward transport over isobaths (see Fig 7 of Moorman et al (2020))
+- cross sections at different slope regimes
+- Westward transport over north-south (see Fig 7 of Moorman et al (2020))
 
 ### Discussion
 - Schematic of key responses (see Fig 12 of Moorman et al (2020))
